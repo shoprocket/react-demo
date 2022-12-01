@@ -1,0 +1,22 @@
+.header {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background: #233642;
+  color: #fff;
+  padding: 0 20px;
+}
+
+.back-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70px;
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+}
+
+.back-logo {
+  height: 20px;
+}
